@@ -250,7 +250,7 @@ const scrollObserver = new IntersectionObserver((entries) => {
 });
 
 document.querySelectorAll(
-  '.home, .home nav, .home .main .main-text h1, .home .main .main-text h3, .home .main-text p, .home .main-text .line, .home .main .main-text .buttons, .home .main .main-text .eyebrow p, .home .main .image img, ' +
+  '.home, .home nav, .home .main .main-text h1, .home .main .main-text h3, .home .main-text p, .home .main .main-text .buttons, .home .main .main-text .eyebrow p, .home .main .image img, ' +
   '.about-us .container .image, .about-us .container .main .text h3, .about-us .container .main .text p, .about-us .button, ' +
   '.signs .button, ' +
   '.services .main-text, ' +
